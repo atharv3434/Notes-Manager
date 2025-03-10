@@ -2,7 +2,7 @@
 
 
 
-📝 Notes Manager (Java-Only Project)
+📝 Notes Manager 
 A console-based Notes Manager that allows users to create, view, edit, delete, and search notes. Built entirely in Java, using file-based storage for persistence.
 
 📌 Features
